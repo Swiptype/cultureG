@@ -1,0 +1,412 @@
+1 : Qui a été la première femme à recevoir un prix Nobel en 1903 ?
+Reponse : Marie Curie
+2 : En quelle année le mur de Berlin est-il tombé ?
+Reponse : 1989
+3 : Quel est l'élément dont le symbole chimique est Au ?
+Reponse : L'or
+4 : Quel est le signe opposé au Scorpion dans le zodiaque ?
+Reponse : Le Taureau
+5 : Qui a écrit le roman américain classique Their Eyes Were Watching God?
+Reponse : Zora Neale Hurston
+6 : Qui a tiré le coup de feu en 1914 qui a déclenché la Première Guerre mondiale ?
+Reponse : L'archiduc François-Ferdinand
+7 : Quelle est la plus petite planète de notre système solaire ?
+Reponse : Mercure
+8 : Quel est le spectacle de Broadway qui a été le plus lucratif de tous les temps ?
+Reponse : Le Roi Lion
+9 : De quoi est principalement composée l’atmosphère terrestre ?
+Reponse : D’azote
+10 : Comment s'appellent les 22 premières cartes d'un jeu de tarot ?
+Reponse : Les Arcanes Majeurs
+11 : Quel est le nom de l'hôtel possédé dans le roman (et le film) The Shining de Steven King, basé sur le véritable Stanley Hotel dans le Colorado ?
+Reponse : Overlook
+12 : Quelle est la capitale de l'Inde ?
+Reponse : New Delhi
+13 : Quels sont les deux États américains qui partagent le plus de frontières avec d'autres États ?
+Reponse : Tennessee et Missouri
+14 : Quelle est l’unité de mesure de l’intensité électrique ?
+Reponse : L’ampère
+15 : Dans un restaurant, sous quel nom la viande de cerf apparaît-elle sur le menu ?
+Reponse : Le chevreuil
+16 : Sous quel pseudonyme l'auteur des célèbres "romans napolitains", une série de quatre livres à succès désormais adaptée en série par HBO, publie-t-il ses œuvres ?
+Reponse : Elana Ferante
+17 : Selon l'Organisation météorologique mondiale, où a-t-on enregistré la température la plus élevée jamais enregistrée sur Terre (134 degrés Fahrenheit en juillet 1913) ?
+Reponse : La Vallée de la Mort
+18 : Qui détient le record du plus grand nombre de victoires aux Primetime Emmy Awards dans la catégorie "Meilleur animateur d'un programme de téléréalité ou de compétition" ?
+Reponse : RuPaul
+19 : Quel a été le premier livre publié par Honoré de Balzac ?
+Reponse : Les Chouans
+20 : Quels sont les deux pays qui ont la plus longue frontière internationale commune ?
+Reponse : Le Canada et les États-Unis
+21 : Quelle ville a accueilli les Jeux olympiques d'hiver de 2014 ?
+Reponse : Sotchi
+22 : Quel est le spectacle le plus ancien de Broadway ?
+Reponse : Le Fantôme de l'Opéra
+23 : Quel est le plus grand organe du corps humain ?
+Reponse : La peau
+24 : En quelle année le premier iPhone a-t-il été commercialisé ?
+Reponse : 2007
+25 : Quel organe produit l’insuline dans le corps humain ?
+Reponse : Le pancréas
+26 : Quelle est la plus longue chaîne de montagnes au-dessus de l'eau ?
+Reponse : Les Andes
+27 : En quelle année Netflix a-t-il lancé des services de streaming ?
+Reponse : 2007
+28 : Combien de pieds y a-t-il dans une cour ?
+Reponse : Trois
+29 : Combien d'os les requins ont-ils ?
+Reponse : Zéro !
+30 : Quel est le mammifère le plus mortel ?
+Reponse : L'hippopotame
+31 : Quel est l'animal le plus mortel au monde ?
+Reponse : Le moustique
+32 : Dans quel pays est né Che Guevara ?
+Reponse : L'Argentine
+33 : Quelle est la capitale de Singapour ?
+Reponse : Singapour
+34 : Quel est le nom de l'événement météorologique également appelé ouragan hivernal ?
+Reponse : Un cyclone-bombe
+35 : Quel a été le premier pays à accorder le droit de vote aux femmes (1893) ?
+Reponse : La Nouvelle-Zélande 
+36 : Qui a découvert la pénicilline ?
+Reponse : Alexander Fleming
+37 : Quelle particule possède une charge négative ?
+Reponse : L’électron
+38 : Quelle est la capitale de l'Albanie ?
+Reponse : Tirana
+39 : Qui a composé l'opéra "Le barbier de Séville" ?
+Reponse : Rossini
+40 : Dans la mythologie grecque, qui était connu comme le messager des dieux ?
+Reponse : Hermès
+41 : Quel était le nom de jeune fille d'Eleanor Roosevelt avant son mariage avec FDR ?
+Reponse : Roosevelt
+42 : Quel était le nom de naissance de la légende de la boxe Muhammad Ali ?
+Reponse : Cassius Clay
+43 : Dans quelle ville les premières infections par le COVID-19 ont-elles été découvertes ?
+Reponse : Wuhan
+44 : Aux échecs, dans quelle direction un fou peut-il se déplacer ?
+Reponse : En diagonale
+45 : Quelle célébrité a inspiré le nom du premier animal cloné au monde, un mouton, en 1996 ?
+Reponse : Dolly Parton
+46 : Quel est le nom de l'événement solaire qui se produit le 20 ou le 21 mars de chaque année ?
+Reponse : L'équinoxe de printemps
+47 : Quel est le raccourci de la fonction coller sur la plupart des ordinateurs ?
+Reponse : Ctrl+V
+48 : Quel est le fleuve qui traverse Paris ?
+Reponse : La Seine
+49 : Quelle est la capitale de l'Iowa ?
+Reponse : Des Moines
+50 : Quelle est la langue la plus parlée au Brésil ?
+Reponse : Le portugais
+51 : À quel artiste attribue-t-on cette célèbre citation : “Je suis ma propre muse, je suis la personne que je connais le mieux. Le sujet que je veux le mieux connaître” ?
+Reponse : Frida Kahlo
+52 : Qui a écrit "Le Petit Prince"
+Reponse : Antoine de Saint-Exupery
+53 : Quel pays a offert la statue de la Liberté aux États-Unis ?
+Reponse : La France
+54 : Combien de femmes Henry VIII a-t-il eues ?
+Reponse : Six
+55 : Quel est le groupe sanguin le plus rare ?
+Reponse : AB négatif
+56 : Quel célèbre mouvement artistique Pablo Picasso a-t-il co-créé ?
+Reponse : Le cubisme
+57 : Quel président américain figure sur le billet de 2 dollars ?
+Reponse : Thomas Jefferson
+58 : Dans quelle phase la lune entre-t-elle après avoir été pleine ?
+Reponse : La phase gibbeuse
+59 : Quelle est la place de l'aubergine dans la pyramide alimentaire ?
+Reponse : Fruits
+60 : Quelle boisson alcoolisée est fabriquée à partir de baies de genévrier ?
+Reponse : Le gin
+61 : Combien de nuits dure la célébration de la fête de Hanoukka ?
+Reponse : Huit
+62 : Quelle organisation religieuse et politique Malcolm X a-t-il rejoint en 1952, l'aidant à se développer de manière exponentielle avant de couper les ponts avec elle en 1964 ?
+Reponse : La Nation de l'Islam
+63 : Quel est le pays qui compte le plus grand nombre de citoyens âgés de plus de 65 ans ?
+Reponse : Le Japon
+64 : La zone 51 est située dans quel État américain ?
+Reponse : Le Nevada
+65 : Quelle chaîne de restauration rapide américaine est reconnue pour avoir introduit la première fenêtre drive-through ?
+Reponse : In-N-Out Burger
+66 : Quelle est la température d'ébullition de l'eau ?
+Reponse : 100 degrés Celsius
+67 : Dans quelle ville et quel état se trouve l'université de Harvard ?
+Reponse : Cambridge
+68 : Quelle actrice française a eu la carrière la plus longue à la télévision ?
+Reponse : Jacqueline Maillan
+69 : Que signifie "ADN" ?
+Reponse : Acide désoxyribonucléique
+70 : Quelle est la plus longue série télévisée d'animation américaine ?
+Reponse : Les Simpson
+73 : Où se trouve le plus petit os du corps humain ?
+Reponse : L'oreille
+74 : Quelle est la capitale du Canada ?
+Reponse : Ottawa
+75 : Quelle planète de notre système solaire possède le plus grand nombre de lunes ?
+Reponse : Jupiter
+76 : Quelle est la capitale de la Suède ?
+Reponse : Stockholm
+77 : En quelle année la première pilule contraceptive a-t-elle été mise à la disposition du public en France ?
+Reponse : 1967
+78 : Qui a écrit Les aventures de Sherlock Holmes ?
+Reponse : Arthur Conan Doyle
+79 : Quelle ville est construite sur les ruines de la cité aztèque de Tenochtitlan ?
+Reponse : Mexico City
+80 : Qui détient le titre de meilleur buteur de l'histoire de l'équipe de France de football ?
+Reponse : Thierry Henry
+81 : Qui a été la première femme à remporter l'Oscar du meilleur réalisateur ?
+Reponse : Kathryn Bigelow
+82 : Quel pays est connu sous le nom de "pays du soleil levant" ?
+Reponse : Le Japon
+84 : En quelle année le premier parc Walt Disney World a-t-il ouvert ses portes en Floride ?
+Reponse : 1971
+85 : Quelle est la langue la plus parlée au monde ?
+Reponse : Le mandarin
+86 : Quel est le seul métal liquide à température ambiante ?
+Reponse : Le mercure
+87 : Quel célèbre activiste a été inscrit sur la liste des personnes les plus recherchées par le FBI en 1970 après avoir été accusé à tort de complot pour aider à libérer un membre du Black Panther Party ?
+Reponse : Angela Davis
+88 : Quels sont les trois signes d'eau du zodiaque ?
+Reponse : Poisson, Cancer et Scorpion
+89 : Quel animal figure sur le logo de Porsche ?
+Reponse : Le cheval
+90 : Quel est le slogan d'Apple Inc
+Reponse : Penser différemment
+91 : Combien y a-t-il de côtes dans le corps humain ?
+Reponse : Vingt-quatre
+92 : Quels sont les deux principaux ingrédients du coq au vin ?
+Reponse : Coq et vin rouge
+93 : Où vivaient Winnie l'Ourson et sa bande, qui servaient de cadre à leurs aventures avec Christophe Robin ?
+Reponse : Le Bois des Cent Acres
+94 : En quelle année le Titanic a-t-il coulé ?
+Reponse : 1912
+95 : Quel est le symbole chimique de l'oxygène ?
+Reponse : O
+96 : Quelle est la plus grande île de la mer Méditerranée ?
+Reponse : La Sicile
+97 : Quel était le nom de jeune fille de la princesse Diana ?
+Reponse : Spencer
+98 : Qui a composé la “Sonate au clair de lune” ?
+Reponse : Ludwig van Beethoven
+99 : Quel plat composé de viande hachée, d'oignons et de flocons d'avoine est le plat national de l'Écosse ?
+Reponse : Le Haggis
+100 : Quel est le premier long métrage de Spike Lee, adapté plus tard en série sur Netflix ?
+Reponse : Nola Darling n'en fait qu'à sa tête
+101 : Qui est le premier homme a sortir dans l’espace ?
+Reponse : Youri Gagarine
+102 : Comment s'appelle le processus par lequel les plantes libèrent de la vapeur d'eau dans l'air ?
+Reponse : La transpiration
+103 : Quelle célèbre chanteuse d'origine texane a été populairement appelée la “Reine du Tejano” pendant sa trop courte vie ?
+Reponse : Selena Quintanilla-Pérez
+104 : Quel plat phare, lancé en 1957, a rendu célèbre la deuxième plus grande chaîne mondiale de restauration rapide spécialisée dans les hamburgers ?
+Reponse : Le Whopper
+105 : Quel amendement à la Constitution américaine a aboli l'esclavage, ne serait-ce que de nom et non d'influence ?
+Reponse : Le 13e amendement
+106 : Quelle est la couleur opposée au bleu sur le cercle chromatique ?
+Reponse : L'orange
+107 : Quel est le nom du plat à base de chou fermenté qui est un élément essentiel de la cuisine coréenne ?
+Reponse : Le kimchi
+108 : Quel est le nom du poète grec de l'Antiquité qui a inspiré l'invention du terme lesbianisme ?
+Reponse : Sappho
+109 : Sous quel nom l'actrice née Norma Jeane Mortenson est-elle devenue célèbre ?
+Reponse : Marilyn Monroe
+110 : Quel était le nom de famille des quatre sœurs dominicaines qui se sont rebellées contre la dictature de Rafael Trujillo et qui ont été assassinées pour leur activisme en 1960, comme le rappelle Julia Alvarez dans son livre Au temps des papillons ?
+Reponse : Mirabal
+111 : Quelle est la capitale de L'australie ?
+Reponse : Canberra
+112 : Quelle est la capitale de la France ?
+Reponse : Paris
+113 : En quelle année l'homme a-t-il marché sur la Lune ?
+Reponse : 1969
+114 : Combien de pays compte l'Union européenne ?
+Reponse : 27
+115 : Quelle est la plus petite unité de mémoire des ordinateurs ?
+Reponse : Un bit
+116 : L'archipel des îles Hawaï est composé de combien d'îles principales ?
+Reponse : Huit 
+117 : Qui est considérée comme la première femme millionnaire autodidacte aux États-Unis ?
+Reponse : Madame C.J. Walker
+118 : Combien de couleurs comptait le premier drapeau de la Fierté, arboré lors de la parade du jour de la liberté gay de San Francisco en 1978 ?
+Reponse : Huit
+119 : Quel est le pays dont la langue nationale possède l'alphabet le plus long ?
+Reponse : Le Cambodge
+120 : Que signifie "HTTP" ?
+Reponse : HyperText Transfer Protocol
+121 : Combien y a-t-il de touches sur un piano moderne de taille standard ?
+Reponse : 88
+122 : Quelle ville intercontinentale est divisée par le détroit du Bosphore, entre l'Europe et l'Asie ?
+Reponse : Istanbul
+123 : Quel pays compte le plus grand nombre de fuseaux horaires au monde ?
+Reponse : La France
+124 : Jusqu'à quand le Code Hays, imposant une censure morale à Hollywood, a-t-il été en vigueur ?
+Reponse : 1968
+125 : Avec le rouge et le bleu, quelle est la 3e des couleurs dites primaires ?
+Reponse : Jaune
+126 : De quel élément les êtres humains sont-ils principalement composés ?
+Reponse : Le carbone
+127 : Les Goo Goo Dolls ont écrit "Iris" pour quel film ?
+Reponse : City of Angels
+128 : Combien de jours comporte une année bissextile ?
+Reponse : 366
+129 : Quel lauréat du prix Nobel de littérature a déclaré vouloir éliminer le regard blanc dominant dans ses œuvres ?
+Reponse : Toni Morrison
+130 : Qui a inventé le World Wide Web ?
+Reponse : Tim Berners-Lee
+131 : Comment appelle-t-on la peur de se retrouver sans téléphone portable ou de ne pas pouvoir l'utiliser ?
+Reponse : La nomophobie
+132 : Quel était le titre provisoire du film "Everything Everywhere All At Once" ?
+Reponse : A Woman Tries to Do Her Taxes
+133 : Qui est la plus jeune lauréate d'un Oscar ?
+Reponse : Tatum O'Neal
+134 : Où se trouvait l'ancienne civilisation ayant inventé la bière il y a environ 5 000 ans ?
+Reponse : En Irak
+135 : Combien y a-t-il d'étoiles sur le drapeau européen ?
+Reponse : 12
+136 : Qui a inspiré le personnage de Dracula selon l’histoire ?
+Reponse : Vlad l'Empaleur
+137 : Quel est e plus grand festival cinématographique d’Afrique ?
+Reponse : FESPACO
+138 : Quel auteur et star de la télévision a été agent secret avant de développer un répulsif à requins ?
+Reponse : Julia Child
+139 : Quel parc national abrite des lucioles synchronisées dans l'hémisphère occidental ?
+Reponse : Great Smoky Mountains
+140 : Quel géant de la mythologie grecque a été condamné à soutenir le ciel ?
+Reponse : Atlas
+141 : Quelle est la plus grande fleur du monde ?
+Reponse : Rafflesia arnoldii
+142 : Où le café a-t-il été inventé, selon la légende ?
+Reponse : En Éthiopie
+143 : Dans les bras de quel deesse grecque se retrouve-t-on en s'endormant ?
+Reponse : Morphée
+144 : A partir de quelle plante tropicale produit-on du rhum ?
+Reponse : La canne à sucre
+145 : Quel lauréat du prix Pulitzer a inventé le terme "colorisme" en 1982 ?
+Reponse : Alice Walker
+146 : Quel navire a secouru les passagers du Titanic après le naufrage ?
+Reponse : Le Carpathia
+147 : Qui a remporté un EGOT à titre posthume en 1994 ?
+Reponse : Audrey Hepburn
+148 : Quelle est la partie la plus profonde connue de l’océan ?
+Reponse : La fosse des Mariannes
+149 : Amy Winehouse, Jimi Hendrix et Janis Joplin font partie de quel groupe malheureux ?
+Reponse : Le 27 Club
+150 : Qui Britney Spears a-t-elle embrassé lors des VMAs 2003, à part Madonna ?
+Reponse : Christina Aguilera
+151 : Quelle chanson a été la première vidéo musicale diffusée sur MTV ?
+Reponse : “Video Killed the Radio Star”
+152 : Quel est le grade le plus élevé dans la marine nationale ?
+Reponse : Amiral
+153 : Quel est le nom de scène de Stefani Joanne Angelina Germanotta ?
+Reponse : Lady Gaga
+154 : Qui a chanté la première version enregistrée de "Strange Fruit", une chanson contre le racisme et la violence envers les Noirs ?
+Reponse : Billie Holiday
+155 : Quelle artiste a été la première femme intronisée au Rock & Roll Hall of Fame ?
+Reponse : Aretha Franklin
+156 : Quel artiste a joué 27 instruments différents sur son premier album, "For You" ?
+Reponse : Prince
+157 : Où le groupe ABBA s'est-il formé ?
+Reponse : En Suède
+158 : Quel single des Beatles est resté le plus longtemps numéro 1 du Billboard ?
+Reponse : “Hey Jude”
+159 : Quel était le vrai prénom de Notorious BIG ?
+Reponse : Christopher
+160 : Quel âge avait Taylor Swift lorsqu'elle a remporté son premier Grammy de l'album de l'année ?
+Reponse : 20 ans
+161 : Starchild, Demon, Spaceman et Catman sont les personnages de scène de quel groupe ?
+Reponse : KISS
+162 : Combien de membres compte BTS ?
+Reponse : Sept
+163 : Quel a été le premier numéro 1 des Beach Boys ?
+Reponse : I Get Around
+164 : De quel instrument Lizzo joue-t-elle ?
+Reponse : La flûte
+165 : Quel artiste a interprété tous les personnages de West Side Story lors d’une représentation télévisée en 1978 ?
+Reponse : Cher
+166 : Quel est le groupe le plus ancien à avoir gardé sa formation d'origine ?
+Reponse : U2
+167 : Quel est l’album le plus vendu de tous les temps aux États-Unis ?
+Reponse : “Their Greatest Hits (1971-1975)” des Eagles
+168 : Comment Otis Redding est-il mort ?
+Reponse : Dans un accident d’avion
+169 : Quel artiste country a connu un succès en 1957 avec "Walkin' After Midnight" ?
+Reponse : Patsy Cline
+170 : Quelle locution latine désigne l'opinion du plus grand nombre ?
+Reponse : Vox Populi
+171 : Quel personnage mythologique tombe amoureux de son reflet dans l'eau ?
+Reponse : Narcisse
+172 : Quel est le nom du quatrième album studio de Led Zeppelin, qui inclut "Stairway to Heaven" ?
+Reponse : Led Zeppelin IV
+173 : Pour combien de temps sont élus les membres de l'Académie française ?
+Reponse : Pour toujours
+174 : Qui est la plus jeune personne à avoir remporté un Grammy pour l'album de l'année ?
+Reponse : Billie Eilish
+175 : Qu'est-ce qui a remplacé sa cigarette quand Lucky Luke a arrêté de fumer ?
+Reponse : Une brindille
+176 : Par quel serment sont concernés les médecins ?
+Reponse : Le serment d'Hippocrate
+177 : Qui est le fondateur de la psychanalyse ?
+Reponse : Sigmund Freud
+178 : Qui est la première femme noire à avoir écrit une chanson sur un tube country numéro 1 ?
+Reponse : Tracy Chapman
+179 : Combien d’os compte le corps humain à l'âge adulte ?
+Reponse : 206
+180 : Comment appelle-t-on l’ensemble des os qui constitue les doigts de la main ?
+Reponse : Les phalanges
+181 : Comment s’appelle le premier satellite artificiel lancé par l’homme dans l’espace ?
+Reponse : Spoutnik
+182 : Qui est le premier homme à marche sur la lune ?
+Reponse : Neil Armstrong
+183 : Quelle est la galaxie la plus proche de la terre ?
+Reponse : Andromède
+184 : De quel film provient la chanson "Journey to the Past", nominée aux Oscars ?
+Reponse : Anastasia
+185 : Comment s’appelle la galaxie dans laquelle se trouve la terre ?
+Reponse : La voie lactée
+186 : Combien d'enfants compte la famille Von Trapp dans La Mélodie du bonheur ?
+Reponse : Sept
+187 : Quel film a rapporté le plus d’argent de tous les temps ?
+Reponse : Avatar
+
+189 : Quel documentaire dépeint les salles de bal de New York pendant l’épidémie de sida, dans les années 1980 ?
+Reponse : Paris is Burning
+190 : Quel a été le premier long-métrage d'animation jamais sorti ?
+Reponse : Blanche-Neige et les sept nains
+
+192 : Quel est le nom de la danse emblématique qui commence par un "jump to the left" dans The Rocky Horror Picture Show ?
+Reponse : La distorsion temporelle
+193 : Dans quelle ville fictive se déroule Les Dents de la mer ?
+Reponse : Amity Island
+
+
+196 : Que signifie la classification des films "R" ?
+Reponse : Restreint
+197 : Quel est le premier film pour lequel Alan Rickman a été crédité ?
+Reponse : Die Hard
+
+199 : Quelle est la seule princesse Disney inspirée par une personne réelle ?
+Reponse : Pocahontas
+200 : Combien de soleils compte la planète Tatooine dans Star Wars ?
+Reponse : Deux
+201 : Quel est le premier film d'horreur à remporter l'Oscar du meilleur film ?
+Reponse : Le Silence des Agneaux
+202 : Quel film non anglais a remporté l’Oscar du meilleur film en premier ?
+Reponse : Parasite
+203 : Quel est le nom de l'hôtel dans Psycho ?
+Reponse : Le motel Bates
+204 : Combien de fois Une étoile est née a-t-il été refait ?
+Reponse : Quatre fois
+
+206 : Qui a été la première actrice noire à remporter un Oscar ?
+Reponse : Hattie McDaniel
+
+
+209 : Quelle actrice emblématique a dit : "Quand je suis bonne, je suis très bonne, mais quand je suis mauvaise, je suis meilleure" ?
+Reponse : Mae West
+
+
+212 : Quel est le nom de la nation africaine fictive dans Black Panther ?
+Reponse : Wakanda
+
+
+215 : Dans The Hunger Games, où se déroule l'histoire ?
+Reponse : Panem
