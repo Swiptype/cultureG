@@ -1,0 +1,394 @@
+1 : France
+Reponse : Paris
+2 : Royaumes-Unis
+Reponse : Londres
+3 : Émirats arabes unis	
+Reponse : Abou Dabi
+4 : Nigeria	
+Reponse : Abuja
+5 : Ghana	
+Reponse : Accra	
+6 : Turkménistan	
+Reponse : Achgabat	
+7 : Éthiopie	
+Reponse : Addis-Abeba
+8 : Yémen	
+Reponse : Aden
+9 : Algérie	
+Reponse : Alger	
+10 : Niue
+Reponse : Alofi	
+11 : Jordanie	
+Reponse : Amman	
+12 : Pays-Bas	
+Reponse : Amsterdam
+13 : Andorre	
+Reponse : Andorre-la-Vieille	
+14 : Turquie	
+Reponse : Ankara	
+15 : Madagascar	
+Reponse : Antananarivo ou Tananarive	
+16 : Iles Samoa	
+Reponse : Apia	
+17 : Érythrée	
+Reponse : Asmara	
+18 : Kazakhstan	
+Reponse : Astana
+19 : Paraguay	
+Reponse : Asuncion	
+20 : Grèce	
+Reponse : Athènes	
+21 : Îles Cook	
+Reponse : Avarua	
+22 : Irak	
+Reponse : Bagdad	
+23 : Azerbaïdjan	
+Reponse : Bakou	
+24 : Mali	
+Reponse : Bamako	
+25 : Brunei	
+Reponse : Bandar Seri Begawan	
+26 : Thaïlande	
+Reponse : Bangkok	
+27 : République centrafricaine	
+Reponse : Bangui	
+28 : Gambie	
+Reponse : Banjul	
+29 : Saint-Christophe-et-Niévès	
+Reponse : Basseterre	
+30 : Serbie	
+Reponse : Belgrade	
+31 : Belize	
+Reponse : Belmopan	
+32 : Allemagne	
+Reponse : Berlin
+33 : Suisse	
+Reponse : Berne
+34 : Liban	
+Reponse : Beyrouth	
+35 : Kirghizistan	
+Reponse : Bichkek	
+36 : Guinée-Bissau	
+Reponse : Bissau	
+37 : Afrique du Sud 
+Reponse : Le Cap
+38 : Colombie	
+Reponse : Bogota	
+39 : Brésil	
+Reponse : Brasilia
+40 : Slovaquie	
+Reponse : Bratislava	
+41 : République du Congo	
+Reponse : Brazzaville	
+42 : Barbade	
+Reponse : Bridgetown	
+43 : Belgique	
+Reponse : Bruxelles	
+44 : Roumanie	
+Reponse : Bucarest	
+45 : Hongrie	
+Reponse : Budapest	
+46 : Argentine	
+Reponse : Buenos Aires	
+47 : Burundi	
+Reponse : Gitega
+48 : Égypte	
+Reponse : Le Caire
+49 : Australie	
+Reponse : Canberra	
+50 : Venezuela	
+Reponse : Caracas	
+51 : Sainte-Lucie	
+Reponse : Castries	
+52 : Monténégro	
+Reponse : Podgorica
+53 : Moldavie	
+Reponse : Chisinau	
+54 : Sri Lanka	
+Reponse : Sri Jayawardenapura Kotte
+55 : Honduras	
+Reponse : Tegucigalpa
+56 : Guinée	
+Reponse : Conakry	
+57 : Danemark	
+Reponse : Copenhague	
+58 : Bénin
+Reponse : Porto-Novo
+59 : Sénégal	
+Reponse : Dakar	
+60 : Syrie	
+Reponse : Damas	
+61 : Bangladesh	
+Reponse : Dacca	
+62 : Tanzanie	
+Reponse : Dodoma
+63 : Timor oriental	
+Reponse : Dili	
+64 : Djibouti	
+Reponse : Djibouti	
+65 : Soudan du Sud	
+Reponse : Djouba	
+66 : Qatar	
+Reponse : Doha	
+67 : Tadjikistan	
+Reponse : Douchanbé	
+68 : Irlande	
+Reponse : Dublin	
+69 : Arménie	
+Reponse : Erevan	
+70 : Sierra Leone	
+Reponse : Freetown	
+71 : Tuvalu	
+Reponse : Funafuti 
+72 : Botswana	
+Reponse : Gaborone	
+73 : Guyana	
+Reponse : Georgetown	
+74 : Guatemala	
+Reponse : Guatemala	
+75 : Viêt Nam	
+Reponse : Hanoï	
+76 : Zimbabwe	
+Reponse : Harare	
+77 : Cuba	
+Reponse : La Havane	
+78 : Finlande	
+Reponse : Helsinki	
+79 : Îles Salomon	
+Reponse : Honiara	
+80 : Pakistan	
+Reponse : Islamabad
+81 : Indonésie	
+Reponse : Nusantara
+82 : Israël
+Reponse : Tel Aviv
+83 : Palestine
+Reponse : Ramallah
+84 : Afghanistan	
+Reponse : Kaboul	
+85 : Ouganda	
+Reponse : Kampala	
+86 : Népal	
+Reponse : Katmandou	
+87 : Soudan	
+Reponse : Khartoum	
+88 : Ukraine	
+Reponse : Kiev	
+89 : Rwanda	
+Reponse : Kigali	
+90 : Jamaïque	
+Reponse : Kingston	
+91 : Saint-Vincent-et-les-Grenadines	
+Reponse : Kingstown	
+92 : République démocratique du Congo	
+Reponse : Kinshasa	
+93 : Palaos	
+Reponse : Melekeok 
+94 : Koweït	
+Reponse : Koweït	
+95 : Malaisie	
+Reponse : Kuala Lumpur 
+96 : Gabon	
+Reponse : Libreville	
+97 : Malawi	
+Reponse : Lilongwe	
+98 : Pérou	
+Reponse : Lima
+99 : Portugal	
+Reponse : Lisbonne	
+100 : Slovénie	
+Reponse : Ljubljana	
+101 : Togo	
+Reponse : Lomé	
+102 : Angola	
+Reponse : Luanda	
+103 : Zambie	
+Reponse : Lusaka	
+104 : Luxembourg	
+Reponse : Luxembourg	
+105 : Espagne	
+Reponse : Madrid	
+106 : Îles Marshall	
+Reponse : Majuro
+107 : Guinée équatoriale	
+Reponse : Malabo
+108 : Maldives	
+Reponse : Malé	
+109 : Nicaragua	
+Reponse : Managua	
+110 : Bahreïn	
+Reponse : Manama	
+111 : Philippines	
+Reponse : Manille	
+112 : Mozambique	
+Reponse : Maputo	
+113 : Oman	
+Reponse : Mascate	
+114 : Lesotho	
+Reponse : Maseru	
+115 : Eswatini	
+Reponse : Mbabane	
+116 : Mexique	
+Reponse : Mexico	
+117 : Biélorussie	
+Reponse : Minsk	
+118 : Somalie	
+Reponse : Mogadiscio	
+119 : Monaco	
+Reponse : Monaco
+120 : Liberia	
+Reponse : Monrovia	
+121 : Uruguay	
+Reponse : Montevideo	
+122 : Comores	
+Reponse : Moroni	
+123 : Russie	
+Reponse : Moscou	
+124 : Kenya	
+Reponse : Nairobi	
+125 : Bahamas	
+Reponse : Nassau	
+126 : Birmanie	
+Reponse : Naypyidaw
+127 : Tchad	
+Reponse : N'Djaména	
+128 : Inde	
+Reponse : New Delhi	
+129 : Niger	
+Reponse : Niamey	
+130 : Chypre	
+Reponse : Nicosie	
+131 : Mauritanie	
+Reponse : Nouakchott	
+132 : Tonga	
+Reponse : Nukuʻalofa	
+133 : Norvège	
+Reponse : Oslo	
+134 : Canada	
+Reponse : Ottawa	
+135 : Burkina Faso	
+Reponse : Ouagadougou	
+136 : Mongolie	
+Reponse : Oulan-Bator	
+137 : États fédérés de Micronésie	
+Reponse : Palikir	Kolonia
+138 : Panama	
+Reponse : Panama	
+139 : Suriname	
+Reponse : Paramaribo	
+140 : Bolivie	
+Reponse : La Paz
+141 : Chine	
+Reponse : Pékin	
+142 : Cambodge	
+Reponse : Phnom Penh	
+143 : Papouasie-Nouvelle-Guinée	
+Reponse : Port Moresby	
+144 : Haïti	
+Reponse : Port-au-Prince	
+145 : Trinité-et-Tobago	
+Reponse : Port-d'Espagne	
+146 : Maurice	
+Reponse : Port-Louis	
+147 : Vanuatu	
+Reponse : Port-Vila	
+148 : République tchèque	
+Reponse : Prague	
+149 : Cap-Vert	
+Reponse : Praia	
+150 : Corée du Nord	
+Reponse : Pyongyang	
+151 : Équateur	
+Reponse : Quito	
+152 : Maroc	
+Reponse : Rabat	
+153 : Islande	
+Reponse : Reykjavik	
+154 : Lettonie	
+Reponse : Riga	
+155 : Arabie saoudite	
+Reponse : Riyad	
+156 : Italie	
+Reponse : Rome	
+157 : Dominique	
+Reponse : Roseau	
+158 : Antigua-et-Barbuda	
+Reponse : Saint John's	
+159 : République dominicaine	
+Reponse : Saint-Domingue	
+160 : Grenade	
+Reponse : Saint-Georges	
+161 : Saint-Marin	
+Reponse : Saint-Marin	
+162 : Costa Rica	
+Reponse : San José	
+163 : Salvador	
+Reponse : San Salvador	
+164 : Chili	
+Reponse : Santiago
+165 : Sao Tomé-et-Principe	
+Reponse : São Tomé	
+166 : Bosnie-Herzégovine	
+Reponse : Sarajevo	
+167 : Corée du Sud
+Reponse : Séoul
+168 : Singapour	
+Reponse : Singapour
+169 : Macédoine du Nord	
+Reponse : Skopje	
+170 : Bulgarie	
+Reponse : Sofia	
+171 : Suède	
+Reponse : Stockholm	
+172 : Fidji	
+Reponse : Suva	
+173 : Ouzbékistan	
+Reponse : Tachkent	
+174 : Estonie	
+Reponse : Tallinn	
+175 : Kiribati	
+Reponse : Tarawa-Sud
+176 : Géorgie	
+Reponse : Tbilissi	
+177 : Iran	
+Reponse : Téhéran	
+178 : Bhoutan	
+Reponse : Thimphou	
+179 : Albanie	
+Reponse : Tirana	
+180 : Japon	
+Reponse : Tokyo	
+181 : Libye	
+Reponse : Tripoli	
+182 : Tunisie	
+Reponse : Tunis	
+183 : Liechtenstein	
+Reponse : Vaduz	
+184 : Malte	
+Reponse : La Valette	
+185 : Pologne	
+Reponse : Varsovie	
+186 : Vatican	
+Reponse : Vatican
+187 : Seychelles	
+Reponse : Victoria	
+188 : Autriche	
+Reponse : Vienne	
+189 : Laos	
+Reponse : Vientiane	
+190 : Lituanie	
+Reponse : Vilnius	
+191 : États-Unis	
+Reponse : Washington	
+192 : Nouvelle-Zélande	
+Reponse : Wellington	
+193 : Namibie	
+Reponse : Windhoek	
+194 : Côte d'Ivoire	
+Reponse : Yamoussoukro
+195 : Cameroun	
+Reponse : Yaoundé	
+196 : Nauru	
+Reponse : Yaren
+197 : Croatie	
+Reponse : Zagreb	
