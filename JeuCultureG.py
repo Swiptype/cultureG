@@ -90,6 +90,17 @@ def charger_questions_vf(fichier):
         questions.append((question, reponse))
     return questions
 
+def charger_questions_capitales(fichier):
+    with open(fichier, 'r', encoding='utf-8') as f:
+        lignes = f.readlines()
+
+    questions = []
+    for i in range(0, len(lignes), 2):
+        question = lignes[i].strip().split(":", 1)[1].strip()
+        reponse = lignes[i + 1].strip().split(":", 1)[1].strip()
+        questions.append((question, reponse))
+    return questions
+
 class JeuMenu:
     def __init__(self, root):
         self.root = root
@@ -103,6 +114,7 @@ class JeuMenu:
         tk.Button(self.root, text="Réponses simples", width=25, command=self.lancer_simple).pack(pady=5)
         tk.Button(self.root, text="QCM", width=25, command=self.lancer_qcm).pack(pady=5)
         tk.Button(self.root, text="Vrai ou Faux", width=25, command=self.lancer_vf).pack(pady=5)
+        tk.Button(self.root, text="Capitales", width=25, command=self.lancer_capitales).pack(pady=5)
 
     def clear(self):
         for widget in self.root.winfo_children():
@@ -122,6 +134,11 @@ class JeuMenu:
         questions = charger_questions_vf("questions_vf.txt")
         self.clear()
         JeuVF(self.root, questions, retour=self.menu)
+
+    def lancer_capitales(self):
+        questions = charger_questions_capitales("questions_capitales.txt")
+        self.clear()
+        JeuSimple(self.root, questions, retour=self.menu)
 
 class JeuSimple:
     def __init__(self, master, questions, retour):
