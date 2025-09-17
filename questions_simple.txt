@@ -366,23 +366,28 @@ Reponse : La voie lactée
 Reponse : Sept
 187 : Quel film a rapporté le plus d’argent de tous les temps ?
 Reponse : Avatar
-
+188 : Qui a commis un crime pour être connu pour l’éternité, et a été condamné à être oublié ?
+Reponse : Erostrate
 189 : Quel documentaire dépeint les salles de bal de New York pendant l’épidémie de sida, dans les années 1980 ?
 Reponse : Paris is Burning
 190 : Quel a été le premier long-métrage d'animation jamais sorti ?
 Reponse : Blanche-Neige et les sept nains
-
+191 : Qui est l'économiste créateur du concept de destruction créatrice paru dans son livre "Capitalisme, Socialisme et Démocratie" ?
+Reponse : Schumpeter
 192 : Quel est le nom de la danse emblématique qui commence par un "jump to the left" dans The Rocky Horror Picture Show ?
 Reponse : La distorsion temporelle
 193 : Dans quelle ville fictive se déroule Les Dents de la mer ?
 Reponse : Amity Island
-
-
+194 : Quel pays a le plus de pyramides ?
+Reponse : Soudan
+195 : En 1971, quel sport l’astronaute Alan Shepard a-t-il pratiqué sur la Lune ?
+Reponse : Golf
 196 : Que signifie la classification des films "R" ?
 Reponse : Restreint
 197 : Quel est le premier film pour lequel Alan Rickman a été crédité ?
 Reponse : Die Hard
-
+198 : Qui a fondé l'Académie Française ?
+Reponse : Le cardinal de Richelieu
 199 : Quelle est la seule princesse Disney inspirée par une personne réelle ?
 Reponse : Pocahontas
 200 : Combien de soleils compte la planète Tatooine dans Star Wars ?
@@ -395,18 +400,25 @@ Reponse : Parasite
 Reponse : Le motel Bates
 204 : Combien de fois Une étoile est née a-t-il été refait ?
 Reponse : Quatre fois
-
+205 : Quelle ville a construit le premier métro ?
+Reponse : Londres
 206 : Qui a été la première actrice noire à remporter un Oscar ?
 Reponse : Hattie McDaniel
-
-
+207 : Comment appelle-t-on un bateau à trois coques ?
+Reponse : Un trimaran
+208 : Comment nomme-t-on le rassemblement des citoyens et le lieu où ils se rassemblent dans la Grèce antique ?
+Reponse : L'agora
 209 : Quelle actrice emblématique a dit : "Quand je suis bonne, je suis très bonne, mais quand je suis mauvaise, je suis meilleure" ?
 Reponse : Mae West
-
-
+210 : Quel est le nom du plus grand dinosaure terrestre jamais découvert ?
+Reponse : Le patagotitan
+211 : Comment s'appelle ce symbole ¶ ?
+Reponse : Pied-de-mouche
 212 : Quel est le nom de la nation africaine fictive dans Black Panther ?
 Reponse : Wakanda
-
-
+213 : Quelle fut la première planète découverte à l'aide d'un télescope ?
+Reponse : Uranus
+214 : Combien de temps met la lumière pour voyager du Soleil jusqu'à la Terre ?
+Reponse : 8 minutes
 215 : Dans The Hunger Games, où se déroule l'histoire ?
 Reponse : Panem
